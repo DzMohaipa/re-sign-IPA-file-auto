@@ -11,7 +11,6 @@ Certificate_Name="iPhone Distribution: xxxxxxx xxxxxx (xxxxxxx)"
 
 # مسار بروفايل
 Profile_Path="/Users/xxxx/xxxxxx/xxxx/xxx/embedded.mobileprovision"
-/Users/abdulsalmabdullh/Documents/test/ipa
 #مسار ملفات التطبيقات
 IPAS_FOLDER="/Users/xxxxxxx/xxxxx/xxxxxx/rsn/files"
 
