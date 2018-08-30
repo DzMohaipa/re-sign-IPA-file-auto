@@ -4,7 +4,24 @@
 
 التعديلات المهمه:
 اول ملف تعدل فيه مسارات البدروفايل ومسارات المجلدات`` sgin.sh``
+```
 
+#  iPhone Distribution: abdaslam abdallah (xxxxxxx) اسم شهادة المطورين مثال
+Certificate_Name="iPhone Distribution: xxxxxxx xxxxxx (xxxxxxx)"
+
+# مسار بروفايل
+Profile_Path="/Users/xxxx/xxxxxx/xxxx/xxx/embedded.mobileprovision"
+/Users/abdulsalmabdullh/Documents/test/ipa
+#مسار ملفات التطبيقات
+IPAS_FOLDER="/Users/xxxxxxx/xxxxx/xxxxxx/rsn/files"
+
+#   لا تغير شي// عدد التكرارات المرادة
+DUPLICATS_NUMBER="0"
+
+# مسار استخراج الملفات بعد التوقيع
+OUTPUT_DIR="/xxxxx/xxxxxx/xxxxxx/re-sign-IPA-file-auto"
+
+```
 
 التعديل على سطر الاوامر في ملف index.php بما يتناسب مع مسار المجلدات لديك
 ```php
