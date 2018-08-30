@@ -4,7 +4,8 @@
 
 التعديلات المهمه:
 اول ملف تعدل فيه مسارات البدروفايل ومسارات المجلدات sgin.sh
-
+$output = shell_exec('chmod +x /Users/abdulsalmabdullh/Documents/test/rsn/sgin.sh ');// هذا
+$output = shell_exec('/Users/abdulsalmabdullh/Documents/test/rsn/sgin.sh ');// وهذا 
 التعديل على سطر الاوامر في ملف index.php بما يتناسب مع مسار المجلدات لديك
 
 رجاء انتبه لوضع المسارات بمكانهم الصحيح لتشغيل التوقيع بدون مشاكل
