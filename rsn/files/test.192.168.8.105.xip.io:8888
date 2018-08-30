@@ -1,0 +1,11 @@
+<html class="pixel-ratio-2 retina ios ios-11 ios-11-0 ios-gt-10 ios-gt-9 ios-gt-8 ios-gt-7 ios-gt-6 watch-active-state"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="stylesheet" href="css/framework7.ios.min.css"><link rel="stylesheet" href="css/framework7.ios.colors.min.css"><link rel="stylesheet" href="css/main.css"><script type="text/javascript" src="js/framework7.min.js"></script></head><body id="body">
+<div class="statusbar-overlay"></div><div class="views tabs navbar-through toolbar-through"><script>
+    document.addEventListener('touchmove', function (event) {
+  if (event.scale !== 1) { event.preventDefault(); }
+}, false); </script><div class="bg"></div>
+<div data-page="index-4" class="page4"><div class="container"><div class="container"><div class="box-s"><form method="post"><span class="title-s p-b-34 p-t-27">Signer IPA </span><div class="txt2">only url's .ipa</div><div class="wrap-input100 validate-input" data-validate="Enter username"><input name="url" size="50" placeholder="الصق الرابط الذي تريد توقيعه" class="input100" required><span class="focus-input100" data-placeholder="🚀"></span></div><div class="container-login100-form-btn" onclick="makesgin()"><input  name="submit" type="submit" value="🚀	وقّع" class="login100-form-btn"  onclick="window.location.href='/'"></div></form></div></div><div class="app-card-2"><div class="content-block" style="margin-top:0px; margin-bottom:0px; padding-top:10px; padding-bottom:10px;"><h4 style="margin:0px;">عمليات التوقيع الاخيره</h4></div><div class="list-block media-list"><ul>
+</ul></div><br><center><div id="unmake"><div class="outer"></div><div class="inner"></div>
+</div></center><script>function makesgin() {
+   var element = document.getElementById("unmake");
+   element.classList.add("ajaxloader3");
+}</script>
