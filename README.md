@@ -32,3 +32,5 @@ https://www.name.com/
 واي مشكله تواجهونها تواصلو معاي في تويتر
 
 fast sgin by @iMokhles
+  also you can donat me :) 
+  paypal : ssvkw@hotmail.com
